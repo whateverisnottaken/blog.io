@@ -2,7 +2,7 @@
 layout: page
 title: "milestone"
 description: "我才活17年 哪有啥milestone"
-header-img: "img/zhihu.jpg"
+header-img: "img/timg.jpg"
 ---
 
 
