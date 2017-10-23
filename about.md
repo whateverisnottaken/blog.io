@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "  "
+description: "关于我的一些事情"
 header-img: "img/timg.jpg"
 ---
 
@@ -12,9 +12,11 @@ header-img: "img/timg.jpg"
 
 我是赵日天。哈gay大学生一个。
 
+会画画。
+
 现在正在学习电吉他。
 
-这骚绿的背景怎么改啊。
+这骚绿的背景被我改掉了。
 
 ###坚信
 
