@@ -7,7 +7,7 @@ header-img: "img/fender.jpg"
 
 
 <center>
-    <p><img/timg.jpg" align="center"></p>
+    <p><"img/timg.jpg" align="center"></p>
 </center>
 
 
