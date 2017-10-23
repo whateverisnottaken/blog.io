@@ -1,3 +1,10 @@
+---
+layout: page
+title: "哈工大同性交友博客"
+description: "你看到的，都是我瞎搞的"
+header-img: "img/gibson.jpg"
+---
+
 ##说明
 
 2017年10月14日建立。
