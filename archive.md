@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 description: "你看到的都是我瞎鼓捣出来的"
-header-img: "img/orange.jpg"
+header-img: "img/timg.jpg"
 ---
 
 
