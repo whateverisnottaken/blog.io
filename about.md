@@ -7,7 +7,7 @@ header-img: "img/timg.jpg"
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508773777291&di=786b1e2660eb0297b59ccd8e7e33adca&imgtype=0&src=http%3A%2F%2Fwww.rockin.co.jp%2Fshop%2Ffiles%2Fproduct_images%2Fres_6fd9007733e2f869466b2ab0c4a158595d76224f.JPG" align="center"></p>
 </center>
 
 我是赵日天。哈gay大学生一个。
