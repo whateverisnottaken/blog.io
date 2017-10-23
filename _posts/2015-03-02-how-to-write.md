@@ -5,6 +5,7 @@ date: 2017-10-23
 categories: blog
 tags: [搞事]
 description: 第一篇文章 试试水.
+header-img: "img/gibson.jpg"
 ---
 
 注：此文是2017年10月23日我为了不被I/O刷掉而鼓捣出来的文章
